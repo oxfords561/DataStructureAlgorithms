@@ -1,4 +1,7 @@
 
+/**
+双向链表的结点类
+ */
 public class DbNode<T>
 {
     private T data;//数据域

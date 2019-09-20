@@ -1,6 +1,8 @@
 
 using System;
-
+/**
+普通不带哨兵的单链表
+ */
 public class LinkList<T> : IListDS<T>
 {
     private Node<T> head;//单链表的头引用

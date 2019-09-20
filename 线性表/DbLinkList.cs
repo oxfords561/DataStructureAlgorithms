@@ -1,6 +1,9 @@
 
 using System;
 
+/**
+双向链表
+ */
 public class DbLinkList<T> : IListDS<T>
 {
 

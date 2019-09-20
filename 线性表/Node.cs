@@ -1,4 +1,7 @@
 
+/**
+链表节点类
+ */
 public class Node<T>
 {
     private T data;//数据域

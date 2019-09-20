@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 
+/**
+线性表测试类
+ */
+
 namespace 数据结构鱼算法
 {
     class TestList

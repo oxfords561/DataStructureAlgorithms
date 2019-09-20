@@ -1,4 +1,7 @@
 
+/**
+线性表接口，定义线性表通用方法
+ */
 public interface IListDS<T>
 {
     int GetLength();//求长度

@@ -1,6 +1,9 @@
 
 using System;
 
+/**
+顺序表实现
+ */
 public class SeqList<T> : IListDS<T>
 {
     private int maxsize;//顺序表的容量
